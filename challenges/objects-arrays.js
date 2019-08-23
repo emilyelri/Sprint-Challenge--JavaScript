@@ -1,3 +1,8 @@
+console.log('------------------------------');
+console.log('objects-arrays.js');
+console.log('------------------------------');
+console.log('');
+
 // ==== Objects ====
 
 /* 
